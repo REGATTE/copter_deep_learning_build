@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: opensplice_dds_broker
+Description: Description of opensplice_dds_broker
+Version: 0.0.17
+Cflags: -I/home/user/catkin_ws/install/include
+Libs: -L/home/user/catkin_ws/install/lib 
+Requires: roscpp rospy micros_swarm

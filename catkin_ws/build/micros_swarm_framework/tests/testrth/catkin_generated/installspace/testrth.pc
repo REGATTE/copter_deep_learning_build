@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: testrth
+Description: Description of testrth
+Version: 0.0.17
+Cflags: -I/home/user/catkin_ws/install/include
+Libs: -L/home/user/catkin_ws/install/lib 
+Requires: micros_swarm roscpp rospy std_msgs nav_msgs geometry_msgs

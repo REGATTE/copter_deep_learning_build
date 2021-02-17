@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel
+
+Name: testbb
+Description: Description of testbb
+Version: 0.0.17
+Cflags: -I/home/user/catkin_ws/src/micros_swarm_framework/tests/testbb/include
+Libs: -L/home/user/catkin_ws/devel/lib 
+Requires: micros_swarm roscpp rospy std_msgs nav_msgs geometry_msgs

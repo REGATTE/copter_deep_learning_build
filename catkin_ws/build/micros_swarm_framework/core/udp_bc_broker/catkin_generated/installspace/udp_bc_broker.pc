@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: udp_bc_broker
+Description: Description of udp_bc_broker
+Version: 0.0.17
+Cflags: -I/home/user/catkin_ws/install/include
+Libs: -L/home/user/catkin_ws/install/lib 
+Requires: roscpp rospy message_runtime std_msgs micros_swarm
